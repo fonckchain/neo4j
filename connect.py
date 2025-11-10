@@ -1,7 +1,6 @@
 from neo4j import GraphDatabase
 
 # Define the connection parameters
-# IMPORTANT: Use the username "neo4j" as confirmed earlier
 URI = "neo4j://127.0.0.1:7687"
 AUTH = ("neo4j", "thisiseasy420$") 
 
